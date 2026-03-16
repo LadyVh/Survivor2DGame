@@ -31025,7 +31025,7 @@ SpriteRenderer:
   m_SortingLayer: 3
   m_SortingOrder: 20
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -5044664615930318519, guid: d3044741a5868fa4eba95b098108e7b9, type: 3}
+  m_Sprite: {fileID: 9128384846270689552, guid: 81f1fadfbe152854c8408402bf86672f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -31135,7 +31135,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.56, y: 1.16}
+    oldSize: {x: 0.65625, y: 1.125}
     newSize: {x: 0.56, y: 1.16}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -31242,6 +31242,10 @@ MonoBehaviour:
   - startLevel: 41
     endLevel: 9999
     experienceCapIncrease: 200
+  reviveUsed: 0
+  checkpointPosition: {x: 0, y: 0, z: 0}
+  hasCheckpoint: 0
+  checkpointInterval: 60
   healthBar: {fileID: 1392317448}
   expBar: {fileID: 782196303}
   levelText: {fileID: 1497021281}
@@ -158015,7 +158019,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.7}
   m_AnchorMax: {x: 0.3, y: 1}
-  m_AnchoredPosition: {x: 2.999878, y: 14.500015}
+  m_AnchoredPosition: {x: 2.999878, y: 14.5}
   m_SizeDelta: {x: -6, y: -85}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1320381535

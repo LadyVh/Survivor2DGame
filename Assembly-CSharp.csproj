@@ -125,6 +125,7 @@
     <Compile Include="Assets\Scripts\Weapons\AxeWeapon.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Art\FREE_Adventurer 2D Pixel Art\FREE_Adventurer 2D Pixel Art\License.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile-2-Pass.shader" />

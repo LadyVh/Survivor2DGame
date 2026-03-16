@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5e0fdc727e51c2a488209e36cfcb8297, type: 3}
   m_Name: Gennaro
   m_EditorClassIdentifier: 
-  icon: {fileID: -455742690540438022, guid: 60c83cf6c5793b94e97bf0189170707b, type: 3}
+  icon: {fileID: 9128384846270689552, guid: 81f1fadfbe152854c8408402bf86672f, type: 3}
   animator: {fileID: 0}
   name: Gennaro
   fullName: Gennaro Belpaese
